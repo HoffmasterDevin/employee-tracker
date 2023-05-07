@@ -13,7 +13,8 @@
   ## Usage
   Navigate back to the main repository folder, and run `node index.js`. Using the CLI navigate through the menu to view, add to, and mutate the database.
   ## Demo
-  
+  [Untitled_ May 6, 2023 10_16 PM.webm](https://user-images.githubusercontent.com/118146567/236656020-4847f19f-4dee-4146-b816-a6ae7f56f819.webm)
+
   ## License
   This application is licenced by [MIT License](https://mit-license.org/)
   ## Questions
